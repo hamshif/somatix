@@ -16,7 +16,7 @@
             android:scrollbars="vertical"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintRight_toLeftOf="parent"
-            android:background="#aa70d3f1"/>
+            android:background="#c9d2d2d4"/>
 
 
         <TextView

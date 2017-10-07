@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:paddingBottom="10sp"
         android:layout_margin="4dp"
-        android:background="#fdfdfcfc"
+        android:background="#98e9f5"
         >
 
         <TextView
